@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ryzen4Life.DESKTOP-1ORPN4Q\Desktop\ЧМ\Project3\Source.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Ryzen4Life.DESKTOP-1ORPN4Q\Desktop\ЧМ\Project3\Source.cpp(33,19): warning C4305: =: усечение из "double" в "float"
+  Project3.vcxproj -> C:\Users\Ryzen4Life.DESKTOP-1ORPN4Q\Desktop\ЧМ\Project3\Debug\Project3.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\To become better\programming\KubSU\CHM\Спуск\Project1\Source.cpp(38,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\To become better\programming\KubSU\CHM\Спуск\Project1\Source.cpp(41,10): warning C4101: ab: неиспользованная локальная переменная
+D:\To become better\programming\KubSU\CHM\Спуск\Project1\Source.cpp(41,35): warning C4101: bt: неиспользованная локальная переменная
+  Project1.vcxproj -> D:\To become better\programming\KubSU\CHM\Спуск\Project1\Debug\Project1.exe

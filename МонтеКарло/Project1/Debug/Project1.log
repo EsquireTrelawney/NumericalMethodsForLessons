@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\To become better\programming\KubSU\CHM\МонтеКарло\Project1\Source.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\To become better\programming\KubSU\CHM\МонтеКарло\Project1\Source.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project1.vcxproj -> D:\To become better\programming\KubSU\CHM\МонтеКарло\Project1\Debug\Project1.exe

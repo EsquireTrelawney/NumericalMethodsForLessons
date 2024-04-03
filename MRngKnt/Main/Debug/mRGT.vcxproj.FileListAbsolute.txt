@@ -1,0 +1,4 @@
+D:\Учеба\численные методы\задача Коши для ДУ\mRGT\Debug\mRGT.exe
+D:\Учеба\численные методы\задача Коши для ДУ\mRGT\Debug\mRGT.pdb
+D:\To become better\programming\KubSU\CHM\MRngKnt\Main\Debug\mRGT.exe
+D:\To become better\programming\KubSU\CHM\MRngKnt\Main\Debug\mRGT.pdb

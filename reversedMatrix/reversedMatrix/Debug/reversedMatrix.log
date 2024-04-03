@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\To become better\programming\KubSU\CHM\reversedMatrix\reversedMatrix\Source.cpp(115,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+D:\To become better\programming\KubSU\CHM\reversedMatrix\reversedMatrix\Source.cpp(115,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию

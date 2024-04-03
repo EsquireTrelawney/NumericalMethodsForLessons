@@ -1,0 +1,10 @@
+﻿  DrobnRac.cpp
+D:\To become better\programming\KubSU\CHM\DrobnRac\DrobnRac\DrobnRac.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\To become better\programming\KubSU\CHM\DrobnRac\DrobnRac\DrobnRac.cpp(90,12): warning C4566: character represented by universal-character-name '\u200B' cannot be represented in the current code page (1252)
+D:\To become better\programming\KubSU\CHM\DrobnRac\DrobnRac\DrobnRac.cpp(92,4): warning C4551: function call missing argument list
+D:\To become better\programming\KubSU\CHM\DrobnRac\DrobnRac\DrobnRac.cpp(13,9): warning C4101: 'Rn': unreferenced local variable
+D:\To become better\programming\KubSU\CHM\DrobnRac\DrobnRac\DrobnRac.cpp(13,29): warning C4101: 'b': unreferenced local variable
+D:\To become better\programming\KubSU\CHM\DrobnRac\DrobnRac\DrobnRac.cpp(13,13): warning C4101: 'RnCh': unreferenced local variable
+D:\To become better\programming\KubSU\CHM\DrobnRac\DrobnRac\DrobnRac.cpp(13,19): warning C4101: 'RnZn': unreferenced local variable
+D:\To become better\programming\KubSU\CHM\DrobnRac\DrobnRac\DrobnRac.cpp(11,23): warning C4101: 'Fi': unreferenced local variable
+  DrobnRac.vcxproj -> D:\To become better\programming\KubSU\CHM\DrobnRac\Debug\DrobnRac.exe
